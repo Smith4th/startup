@@ -23,4 +23,6 @@ Interesting things I have learned about HTML
 
 Interesting things I have learned about React
 
-## TEST CHANGE #1
+## 9/8 Notes:
+
+## I love web programming!
