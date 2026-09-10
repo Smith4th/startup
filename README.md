@@ -19,7 +19,7 @@ A visual story book about a boy named Billy, who travels a Red and Black dream w
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](roughsketch.png)
 
 ### Key features
 
