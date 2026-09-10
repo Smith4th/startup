@@ -39,6 +39,7 @@ I am going to use the required technologies in the following ways.
 - **Service** - It will handle login information, as well as save information about the user’s progress on the story.
 - **DB/Login** - It will store user provided hints, and user’s progress.
 - **WebSocket** - It will broadcast user provided hints to other users.
+- **Third Party API** - Firebase API to help store player hints and player's progress.
 
 ## 🚀 Specification Deliverable
 
