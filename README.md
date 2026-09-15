@@ -1,9 +1,9 @@
-# Billy's Dream Quest
+# Kay's Dream World
 
 [My Notes](notes.md)
 
-Elevator Pitch: Billy’s Dream Quest:
-A visual story book about a boy named Billy, who travels a Red and Black dream world.
+Elevator Pitch: Kay's Dream World:
+A visual story book about a child named Kay, who travels a Red and Black dream world.
 
 
 > [!NOTE]
@@ -14,8 +14,8 @@ A visual story book about a boy named Billy, who travels a Red and Black dream w
 
 ### Elevator pitch
 
-Elevator Pitch: Billy’s Dream Quest:
-A visual story book about a boy named Billy, who travels a Red and Black dream world. Reminiscent of point and click adventures in the 90’s and early 2000’s. You’d help Billy through this dream world by directing him to objects on screen, and by reading hints which previous players have left before you. When you complete a level, you’re prompted to give a short hint to the next player to help them on their way.
+Elevator Pitch: Kay's Dream World:
+A visual story book about a child named Kay, who travels a Red and Black dream world. Reminiscent of point and click adventures in the 90’s and early 2000’s. You’d help Kay through this dream world by directing them to objects on screen, and by reading hints which previous players have left before you. When you complete a level, you’re prompted to give a short hint to the next player to help them on their way.
 
 ### Design
 
@@ -59,9 +59,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Rented EC2 server** - I did not complete this part of the deliverable.
-- [ ] **Leased domain name** - I did not complete this part of the deliverable.
-- [ ] **Server accessible** from my domain: [https://yourdomainnamehere.click](https://yourdomainnamehere.click) - I did not complete this part of the deliverable.
+- [x] **Rented EC2 server** - I did not complete this part of the deliverable.
+- [x] **Leased domain name** - I did not complete this part of the deliverable.
+- [x] **Server accessible** from my domain: [https://yourdomainnamehere.click](https://yourdomainnamehere.click) - I did not complete this part of the deliverable.
 
 ## 🚀 HTML deliverable
 
